@@ -69,7 +69,7 @@ sqlparse==0.3.0
 stevedore==4.1.1
 toml==0.10.2
 tomli==2.0.1
-tornado==6.2
+tornado==6.4.2
 typing_extensions==4.4.0
 tzdata==2023.3
 tzlocal==4.3
